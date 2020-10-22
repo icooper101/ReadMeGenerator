@@ -1,8 +1,7 @@
 
   # ReadMe Generator :dark_sunglasses:
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  [![Build Status](https://img.shields.io/badge/Javascript-100%-green)
+<img src=“https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E”/>
   
   # Description
   A CLI application built in node.js that enables developers to automate the process of creating standardized and compelling README markdown files for GitHub repositories.
@@ -16,7 +15,7 @@
   * [Questions]()
   
   # Installation 
-  This application will be initiated in the VSC terminal with the follwing command:
+  This application will be initiated in the VSC terminal with the following command:
 
    1. npm install 2. node index
 
@@ -33,5 +32,5 @@
   # Test
   no testing specified
   # Questions
-  If you have any questions, reach me via Github:icooper101
+  If you have any questions, reach me via Github: icooper101
   or send me an email at: icooper101@gmail.com
