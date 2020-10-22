@@ -1,7 +1,7 @@
 
   # ReadMe Generator :dark_sunglasses:
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg)
+[]!(./src/javascript.svg)(https://aleen42.github.io/badges/src/javascript.svg)
   # Description
   A CLI application built in node.js that enables developers to automate the process of creating standardized and compelling README markdown files for GitHub repositories.
   
