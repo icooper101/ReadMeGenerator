@@ -1,6 +1,6 @@
 
   # ReadMe Generator :dark_sunglasses:
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ![Build Status](https://img.shields.io/badge/Javascript-100%-green)
   
